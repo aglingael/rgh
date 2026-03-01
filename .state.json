@@ -5,17 +5,21 @@
         "etag": null,
         "last_modified": null
       },
+      "last_status": 200,
+      "final_url": "https://www.koninklijke-serres-royales.be/fr/",
       "last_hash": "dcffea239e22645358668f104f53e5c601f42b6813ccc1f0f90567d32a536f7e",
-      "excerpt": "ge d&#039;accueil Ouverture au public du 17 avril au 10 mai 2026 Les Serres royales de Laeken seront ouvertes au public du 17 avril au 10 mai 2026 inclus.&nbsp;La date exacte de la mise en vente des tickets sera communiquée ultérieurement. Gardez un œil sur ce site web pour rester informés.&nbsp; Visitez les serres en avril et en mai Comme de coutume, les Serres royales de Laeken seront ouvertes"
+      "last_links_hash": "c4579f7fc76b623f52c8fe42a7cf8cd8b24dcacd39486aeb9fae7b3229b404dc"
     },
     "https://www.koninklijke-serres-royales.be/fr/tickets": {
       "headers": {
         "etag": null,
         "last_modified": null
       },
-      "last_hash": "3469f88b33de5972238a4af948c6d2549a88ea116efff8566d9a95ab4cce9777",
-      "excerpt": "Réservez votre visite • Touquet Music Beach Festival menu FR NL EN FR DE Réservez votre visite Commandez vos billets ici avril 25 vendredi 18 avril Visite de jour 15:30 - 23:00 Complet samedi 19 avril Visite de jour 09:30 - 17:30 Nocturne 19:30 - 23:00 Complet dimanche 20 avril Visite de jour 09:30 "
+      "last_status": 404,
+      "final_url": "https://www.koninklijke-serres-royales.be/fr/tickets",
+      "last_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_links_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   },
-  "last_heartbeat_ts": 1772199522
+  "last_heartbeat_ts": 1772362655
 }
