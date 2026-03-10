@@ -7,7 +7,7 @@
       },
       "last_status": 200,
       "final_url": "https://www.koninklijke-serres-royales.be/fr/",
-      "last_hash": "0afa1fc36dcc948d7196ea144105a7eb05df187bbccc67c135f22e9d084cfbb6",
+      "last_hash": "bfca6d4b60ee8ddeaa56113ba4a3b3e8724f6c106ebebbfe43bb6850c1ba9583",
       "last_links_hash": "e4170a2ef925e747f7298be5802897a2d677d01e4cd77a69ba363a419ded84c3"
     },
     "https://www.koninklijke-serres-royales.be/fr/tickets": {
@@ -21,5 +21,5 @@
       "last_links_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   },
-  "last_heartbeat_ts": 1773152771
+  "last_heartbeat_ts": 1773160687
 }
