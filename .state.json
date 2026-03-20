@@ -15,10 +15,10 @@
         "etag": null,
         "last_modified": null
       },
-      "last_status": 404,
+      "last_status": 200,
       "final_url": "https://www.koninklijke-serres-royales.be/fr/tickets",
-      "last_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "last_links_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "last_hash": "781ef2cf985ecce8182589e25d3ca98f47c20dfa57e07c7fe437583001a24f60",
+      "last_links_hash": "9480e88716703c0edc9585d9927255a1b542c49bc36c59f9be0e7df27f2b3492"
     }
   },
   "last_heartbeat_ts": 1774000540
